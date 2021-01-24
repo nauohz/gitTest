@@ -4,6 +4,7 @@ public class Test {
         System.out.println("Hello Wrold & Dev");
         System.out.println("主干冲突解决!");
         System.out.println("分支冲突解决!");
+        System.out.println("C1操作");
         System.out.println("C2操作!");
     }
 }
